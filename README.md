@@ -1,4 +1,4 @@
-[![](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAreYouIvan&count_bg=%234A4B49&title_bg=%235E21A4&icon=&icon_color=%23E7E7E7&title=visits&edge_flat=false)](https://github.com/)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?tab=repositories%2F&url=https%3A%2F%2Fgithub.com%2Fluisantomartinez&count_bg=%23000000&title_bg=%231DE7F7&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <h1 align="center">Hi 👋, I'm Luis Antonio Martínez Cárcamo</h1>
 <h3 align="center">A passionate frontend developer from El Salvador</h3>
 
